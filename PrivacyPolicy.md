@@ -1,8 +1,8 @@
-NetraDyne Privacy Policy
+Netradyne Privacy Policy
 
 Last Changes to Privacy Policy:  March 13, 2017
 
-NetraDyne, Inc. (collectively “NetraDyne” or “we,” “us,” or “our”) respects your privacy and is committed to protecting it through our compliance with this Privacy Policy.  
+Netradyne, Inc. (collectively “Netradyne” or “we,” “us,” or “our”) respects your privacy and is committed to protecting it through our compliance with this Privacy Policy.  
 
 This Privacy Policy describes the types of information and data we may collect from you or that you may provide when you visit the website http://www.netradyne.com (our “Website”), and our user portal. This Policy describes, our practices for collecting, using, maintaining, protecting, disclosing, sharing, and storing that information and data. This Policy is applicable to data and information we collect:
 
@@ -17,7 +17,7 @@ Please read this Policy carefully to understand our policies and practices regar
 
 To jump to a specific section of this Privacy Policy, please click on the link below:
 
-•	What Information Does NetraDyne Collect and Store?
+•	What Information Does Netradyne Collect and Store?
 •	Personal Information – How It Is Collected
 •	Non-Personal Information
 •	Collection of Your Source IP Address/Location Information
@@ -35,7 +35,7 @@ To jump to a specific section of this Privacy Policy, please click on the link b
 •	Third Party Agents
 •	Legal and Emergency Situations
 •	Buyer or Successor
-•	NetraDyne Email Communications
+•	Netradyne Email Communications
 •	What Steps Are Taken to Keep Personal Information Secure?
 •	How Can We Transfer Your Personal Information?
 •	How Long Do We Keep Your Personal Information?
@@ -47,7 +47,7 @@ To jump to a specific section of this Privacy Policy, please click on the link b
 •	How to Contact Us
 
 
-What Information Does NetraDyne Collect and Store?
+What Information Does Netradyne Collect and Store?
 
 We collect two types of information – personal and non-personal - from you in conjunction with your use of the Website or user portal.  Personal information is any information that can individually identify you and can include, among other things, your name, image, voice, e-mail address, telephone numbers, postal address, billing and contact information. Personal information is information that you may supply to us such as when you write to us via the Website, complete a survey, provide your e-mail address, or use our iDriver and connected service. Non-personal information includes information that is about you but does not personally identify you. Non-personal information may include tracking and usage information about your location, demographics, internet connection, the equipment you use to access our Website, and your use of the Website and the Internet.
 
@@ -56,10 +56,10 @@ Personal Information – How It Is Collected
 
 Although we enable you to set up an account, you do not need to set up an account to view the Website and you can browse the Website without submitting your personal information to us. However, there are a number of circumstances in which you may supply us or our agents with your personal information. The following lists the most common ways in which we may collect personal information from you:
 
-•	Signing up to receive alerts or other information via email, text or instant message from NetraDyne.
+•	Signing up to receive alerts or other information via email, text or instant message from Netradyne.
 •	When you register and set up an account on our Website or user portal.  
 •	Location, sound, and imaging information and data collected through iDriver.
-•	When you fill in forms on or upload information or data to our Website. This includes information provided at the time of purchasing NetraDyne products, subscribing to our services, when requesting further services, or when reporting a problem.
+•	When you fill in forms on or upload information or data to our Website. This includes information provided at the time of purchasing Netradyne products, subscribing to our services, when requesting further services, or when reporting a problem.
 •	Details of transactions that you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order on our Website.
 •	Requesting customer service or other assistance, including records and copies of your correspondence (including email address), if you contact us.
 •	We collect information related to how you use our services, including actions you take in your account or through our user portal (like sharing, editing, viewing, and moving files or folders).  
@@ -87,7 +87,7 @@ We will collect and store location information about you on the Website or user 
 
 Collection of Personal Information from or Through Social Media Sites
 
-When you interact with any NetraDyne page or account on a social media platform, such as Facebook, Twitter, Google+, Tumblr, LinkedIn, YouTube, or Pinterest, we may collect the personal information that you make available to us on that page or account including your account ID or “handle.” However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personal information that we are permitted to collect by the social media platform.   
+When you interact with any Netradyne page or account on a social media platform, such as Facebook, Twitter, Google+, Tumblr, LinkedIn, YouTube, or Pinterest, we may collect the personal information that you make available to us on that page or account including your account ID or “handle.” However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personal information that we are permitted to collect by the social media platform.   
 
 
 Collection of Personal and Non-Personal Information from Other Sources
@@ -111,7 +111,7 @@ We may use flash cookies, web storage, web beacons or other technology that trac
 
 Is Personal Information Collected from Children?
 
-NetraDyne does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age you should not provide personally identifiable information to NetraDyne without providing us with consent from your parents or legal guardians. If NetraDyne discovers that a child under the age of 13 has provided NetraDyne with personally identifiable information and we do not have parental consent, NetraDyne will immediately delete that child’s information from the Website. If you believe we might have information from or about a child under 13, please contact us at support@netradyne.com
+Netradyne does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age you should not provide personally identifiable information to Netradyne without providing us with consent from your parents or legal guardians. If Netradyne discovers that a child under the age of 13 has provided Netradyne with personally identifiable information and we do not have parental consent, Netradyne will immediately delete that child’s information from the Website. If you believe we might have information from or about a child under 13, please contact us at support@netradyne.com
 
 
 How Do We Use Your Information?
@@ -143,12 +143,12 @@ Specifically, we use location information to:
 
 Combination of Your Personal Information
 
-We use the information from one portion of the Website on other portions of Website in reports and analysis, all of which are owned and operated by NetraDyne, and we may combine information gathered from multiple portions of the Website into a single customer record or analysis or report. We also use and/or combine information that we collect off-line, from our vehicle devices, or we collect or receive from third party sources to enhance, expand, and check the accuracy of your customer records.
+We use the information from one portion of the Website on other portions of Website in reports and analysis, all of which are owned and operated by Netradyne, and we may combine information gathered from multiple portions of the Website into a single customer record or analysis or report. We also use and/or combine information that we collect off-line, from our vehicle devices, or we collect or receive from third party sources to enhance, expand, and check the accuracy of your customer records.
 
 
 Who Do We Provide Your Information to?
 
-We may disclose any information with your consent including to fulfill the purpose for which you provided it. We may disclose aggregated information about our users and information that does not identify any individual without restriction. With regard to Personal Information, except as disclosed in this Privacy Policy, we do not disclose Personal Information collected online to any companies not part of NetraDyne or our parent, subsidiaries or related entities. We will not sell or rent your Personal Information as part of a customer list or similar transaction. Please note that if your account is related to your employment or engagement with one of our customers this does not apply because they are the account holder, not you. 
+We may disclose any information with your consent including to fulfill the purpose for which you provided it. We may disclose aggregated information about our users and information that does not identify any individual without restriction. With regard to Personal Information, except as disclosed in this Privacy Policy, we do not disclose Personal Information collected online to any companies not part of Netradyne or our parent, subsidiaries or related entities. We will not sell or rent your Personal Information as part of a customer list or similar transaction. Please note that if your account is related to your employment or engagement with one of our customers this does not apply because they are the account holder, not you. 
 
 
 Business Partners and Third Parties
@@ -168,10 +168,10 @@ We may also use or disclose Personal Information if required to do so by law or 
 
 Buyer or Successor 
 
-We may disclose personal information that we collect or you provide to a buyer or other successor in the event of an assignment, merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of NetraDyne’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by NetraDyne about our Website or user portal users is among the assets transferred. Under such circumstances, we would to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
+We may disclose personal information that we collect or you provide to a buyer or other successor in the event of an assignment, merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Netradyne’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by Netradyne about our Website or user portal users is among the assets transferred. Under such circumstances, we would to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
 
 
-NetraDyne E-mail Communications
+Netradyne E-mail Communications
 
 E-mail communications sent from us are designed to make your Website experience more efficient. By participating in the Website you specifically agree to accept and consent to receiving e-mail communications initiated from us, which include, without limitation: message notification e-mails, e-mails informing you about new and existing products we provide.  
 
@@ -183,22 +183,22 @@ We are concerned about ensuring the security of your Personal Information. We ex
 
 How Can We Transfer Your Personal Information?
 
-Your information collected through the Website or user portal may be stored and processed in the United States or any other country in which NetraDyne, its affiliates or service providers maintain facilities. NetraDyne, our affiliates, or service providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the United States or other regions with laws governing data collection and use that may differ from US law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. By registering for and using our product, service, user portal, or Website you consent to the transfer of information to the US or to any other country in which NetraDyne, our affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+Your information collected through the Website or user portal may be stored and processed in the United States or any other country in which Netradyne, its affiliates or service providers maintain facilities. Netradyne, our affiliates, or service providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the United States or other regions with laws governing data collection and use that may differ from US law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. By registering for and using our product, service, user portal, or Website you consent to the transfer of information to the US or to any other country in which Netradyne, our affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
 
 How Long Do We Keep Your Information?
 
-Following termination or deactivation of your account, NetraDyne, its affiliates, or its service providers may retain information (including your profile information) for a commercially reasonable time for backup, archival, analysis, marketing, optimization, and/or audit purposes. We may retain aggregated information that does not identify any individual indefinitely. If you have any questions about termination or deactivation of your account, please contact us directly at support@NetraDyne.com.
+Following termination or deactivation of your account, Netradyne, its affiliates, or its service providers may retain information (including your profile information) for a commercially reasonable time for backup, archival, analysis, marketing, optimization, and/or audit purposes. We may retain aggregated information that does not identify any individual indefinitely. If you have any questions about termination or deactivation of your account, please contact us directly at support@netradyne.com.
 
 
 Your California Privacy Rights
 
-California Civil Code Section 1798.83 provides that users of NetraDyne’s Website who are California residents may request certain information regarding NetraDyne’s disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@NetraDyne.com. This Website will respect your browser’s Do Not Track signals (or other well-established, commercially available mechanisms that provide you with the ability to exercise choice regarding the collection of personal information). If we receive a Do Not Track notice, we will stop using any personal information for online behavioral advertising purposes if we are conducting such activity.
+California Civil Code Section 1798.83 provides that users of Netradyne’s Website who are California residents may request certain information regarding Netradyne’s disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@netradyne.com. This Website will respect your browser’s Do Not Track signals (or other well-established, commercially available mechanisms that provide you with the ability to exercise choice regarding the collection of personal information). If we receive a Do Not Track notice, we will stop using any personal information for online behavioral advertising purposes if we are conducting such activity.
 
 
 Governing Law
 
-This Website is published in the United States. We attempt to protect the Personal Information of all users of our Website and user portal. Note, our Website is located and targeted to persons in the United States and our policies are directed at compliance with those laws. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to NetraDyne.
+This Website is published in the United States. We attempt to protect the Personal Information of all users of our Website and user portal. Note, our Website is located and targeted to persons in the United States and our policies are directed at compliance with those laws. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to Netradyne.
 
 
 Changes to This Policy
@@ -208,9 +208,9 @@ It is our policy to post any changes we make to our Privacy Policy on this page.
 
 How Do I Opt-Out of Communications or Correct Information About Me?
 
-You may opt-out of receiving future e-mail messages and communications from NetraDyne.  To opt-out, you can send us a message at support@NetraDyne.com Please note that if you have an existing account or transactions with us, you will continue to receive communications from us regarding your use of our products and services. You can correct your account information by sending us a message at support@NetraDyne.com.
+You may opt-out of receiving future e-mail messages and communications from Netradyne.  To opt-out, you can send us a message at support@netradyne.com Please note that if you have an existing account or transactions with us, you will continue to receive communications from us regarding your use of our products and services. You can correct your account information by sending us a message at support@netradyne.com.
 
 
 How to Contact Us:
 
-If you have any questions about our privacy policies, please contact us at support@NetraDyne.com or by mail at: 4350 Executive Drive, Suite 150, San Diego, CA, 92121.
+If you have any questions about our privacy policies, please contact us at support@netradyne.com or by mail at: 4350 Executive Drive, Suite 150, San Diego, CA, 92121.
